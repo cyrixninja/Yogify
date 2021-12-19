@@ -1,0 +1,5 @@
+numpy
+streamlit
+pandas
+plotly
+text2emotion
